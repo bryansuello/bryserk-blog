@@ -6,7 +6,7 @@ const ejs = require("ejs");
 const _ = require("lodash");
 const mongoose = require('mongoose');
 
-const homeStartingContent = "Built this garbage where I post my nonsense thoughts because I don't like posting them on social media.";
+const homeStartingContent = "Built this garbage where I write my nonsense thoughts because I don't like posting them on social media.";
 const aboutContent = "I'm nobody.";
 const contactContent = "email: bryansuello@gmail.com";
 
